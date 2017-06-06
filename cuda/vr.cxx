@@ -43,7 +43,7 @@
 // ****************************************************************************
 
 // these are set as command line arguments
-const vtkm::Int32 NUM_SAMPLES = 1000;                // e.g., 100
+const vtkm::Int32 NUM_SAMPLES = 2500;                // e.g., 100
 const vtkm::Int32 WIDTH = 1024;                      // e.g., 1024
 const vtkm::Int32 HEIGHT = 1024;                     // e.g., 1024
 const std::string filename = "../astro512.vtk";      // e.g., "../astro64.vtk"

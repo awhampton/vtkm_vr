@@ -1,2 +1,3 @@
-astro512.vtk
-build/
+astro*.vtk
+cuda/build/
+tbb/build/
