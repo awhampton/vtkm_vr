@@ -1,3 +1,4 @@
 astro*.vtk
 cuda/build/
 tbb/build/
+serial/build/

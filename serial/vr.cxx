@@ -34,7 +34,6 @@
 #include <vtkRenderWindowInteractor.h>
 #include <vtkSmartPointer.h>
 
-#define VTKM_DEVICE_ADAPTER VTKM_DEVICE_ADAPTER_CUDA
 
 
 
